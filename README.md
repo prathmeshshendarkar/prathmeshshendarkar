@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  ![Logo Dark](https://github.com/prathmeshshendarkar/prathmeshshendarkar/blob/main/4884785.jpg?raw=true#gh-dark-mode-only)
+  ![Logo Dark](https://github.com/prathmeshshendarkar/prathmeshshendarkar/blob/main/4884785.jpg#gh-dark-mode-only)
 
 </div>
 
