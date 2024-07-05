@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Prathmesh Shendarkar</h1>
-<h3 align="center">A Backend Developer with expertise in NodeJS, TypeScript, MERN Stack</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&duration=2000&pause=500&color=000000&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi+There%2C;I+am+a+Backend+Developer;Lets+connect+%26+contribute)](https://git.io/typing-svg)
 
 <div align="center">
 
-  ![Logo Dark](https://github.com/prathmeshshendarkar/prathmeshshendarkar/blob/main/4884785.jpg#gh-dark-mode-only)
+  [![Header](https://raw.githubusercontent.com/prathmeshshendarkar/prathmeshshendarkar/main/4884785.jpg "Header")](https://www.linkedin.com/in/prathmeshshendarkar/)
 
 </div>
 
