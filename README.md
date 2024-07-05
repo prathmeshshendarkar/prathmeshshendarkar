@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Shendarkar</h1>
 <h3 align="center">A Backend Developer with expertise in NodeJS, TypeScript, MERN Stack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmeshshendarkar&label=Profile%20views&color=0e75b6&style=flat" alt="prathmeshshendarkar" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathmeshshendarkar" alt="prathmeshshendarkar" /></a> </p>
+  ![Logo Dark](https://github.com/prathmeshshendarkar/prathmeshshendarkar/blob/main/4884785.jpg?raw=true#gh-dark-mode-only)
+
+</div>
 
 <p align="left"> <a href="https://twitter.com/wired_developer" target="blank"><img src="https://img.shields.io/twitter/follow/wired_developer?logo=twitter&style=for-the-badge" alt="wired_developer" /></a> </p>
 
