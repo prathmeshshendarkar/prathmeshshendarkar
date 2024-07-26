@@ -20,9 +20,7 @@
 
 ## Lets Connect
 <p align="left">
-<a href="https://twitter.com/wired_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wired_developer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prathmeshshendarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathmeshshendarkar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shinigaami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shinigaami" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools I use
