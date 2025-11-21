@@ -10,11 +10,9 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/prathmeshshendarkar/" target="blank"><img src="https://img.shields.io/twitter/follow/prathmeshshendarkar?logo=twitter&style=for-the-badge" alt="prathmeshshendarkar" /></a> </p>
 
-- 🔭 I’m currently working on [Placement Cell Application](https://github.com/prathmeshshendarkar/Placement-Cell)
+- 🌱 I’m currently learning **Go-Lang**
 
-- 🌱 I’m currently learning **Gatsby, NextJS**
-
-- 💬 Ask me about **nodejs, typescript and mern stack**
+- 💬 Ask me about **Backend Stuffs**
 
 - 📫 How to reach me **prathmeshshendarkar@gmail.com**
 
